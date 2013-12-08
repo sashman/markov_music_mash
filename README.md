@@ -1,7 +1,7 @@
 ## Dependencies
 
-`Python 2.7`
-`pydub`
+* Python 2.7
+* [pydub](http://pydub.com/)
 
 
 ## Usage
